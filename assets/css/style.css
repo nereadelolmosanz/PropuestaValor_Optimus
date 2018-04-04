@@ -1720,3 +1720,12 @@ xkeyframes
     color: #00ae3e;
     font-weight:900;
 }
+
+.dropdown{
+	margin-left: 80%;
+	margin-top: 1.2%;
+}
+
+.open > .dropdown-menu{
+	border: rgba(0, 173, 62, 0.75) 3px solid;	
+}	
