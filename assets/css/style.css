@@ -1649,7 +1649,7 @@ xkeyframes
 }
 
 #footer-img{
-	width: 10%;
+	max-width: 10%;
 	padding-top: 3.5%;
 }
 
