@@ -1647,11 +1647,17 @@ xkeyframes
 .footer-brand{
     float:left;
 }
+
+#footer-img{
+	width: 10%;
+	padding-top: 3.5%;
+}
+
 .copyright{
     text-align:right;
 }
 .copyright p{
-    font-size: 1.125rem;
+    font-size: 0.8em;
     margin-bottom: 1px;
     padding: 20px 0px;
 }
