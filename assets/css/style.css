@@ -1729,3 +1729,20 @@ xkeyframes
 .open > .dropdown-menu{
 	border: rgba(0, 173, 62, 0.75) 3px solid;	
 }	
+
+
+.table {
+    background-color: rgba(0, 173, 62, 0.75);
+    color: black;
+    border: trnasparent solid 1px;
+}
+
+.table > .thead-dark > tr > th{
+    text-align: center;
+    background-color: #03723f;
+    color: white;
+}
+
+.table > tbody > tr > td{
+    text-align: center;
+}
