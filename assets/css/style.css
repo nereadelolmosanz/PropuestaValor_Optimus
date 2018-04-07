@@ -1748,3 +1748,28 @@ xkeyframes
 .greenText{
     color: green;
 }
+
+
+.home-pv {
+    background: url(../images/green-gym.png) no-repeat center center;
+        background-size: auto auto;
+    color: #000;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+}
+
+.home-content-pv h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    padding-top: 5%;
+    color: #000;
+}
+
+.home-content-pv h1 {
+    margin-bottom: 30px;
+    color: #000;
+}
