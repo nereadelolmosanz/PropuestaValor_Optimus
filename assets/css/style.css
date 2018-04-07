@@ -1730,7 +1730,7 @@ xkeyframes
 
 
 .table {
-    background-color: rgba(0, 173, 62, 0.75);
+    background-color: rgba(158, 223, 181, 0.8);
     color: black;
     border: trnasparent solid 1px;
 }
@@ -1772,4 +1772,9 @@ xkeyframes
 .home-content-pv h1 {
     margin-bottom: 30px;
     color: #000;
+}
+
+.benefits-img{
+    max-width: 50px;
+    max-height: 50px;
 }
