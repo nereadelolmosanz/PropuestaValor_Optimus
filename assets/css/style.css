@@ -28,9 +28,6 @@ img {
     user-drag: none;
 }
 
-.greenText{
-    color: green;
-}
 
 /*==========================================
 PRE LOADER 
@@ -673,6 +670,7 @@ textarea::-ms-input-placeholder
 }
 .single_features_right {
     margin-top:10%;
+    text-align: center;
 }
 
 .single_features_right h2 {
@@ -1745,4 +1743,8 @@ xkeyframes
 
 .table > tbody > tr > td{
     text-align: center;
+}
+
+.greenText{
+    color: green;
 }
