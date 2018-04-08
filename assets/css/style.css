@@ -1751,7 +1751,7 @@ xkeyframes
 
 
 .home-pv {
-    background: url(../images/green-gym.png) no-repeat center center;
+    background: url(../images/green-gym-bg.png) no-repeat center center;
         background-size: auto auto;
     color: #000;
     background-size: cover;
@@ -1764,15 +1764,12 @@ xkeyframes
 .home-content-pv h1 {
     font-size: 48px;
     font-weight: 700;
-    margin-bottom: 30px;
-    padding-top: 5%;
-    color: #000;
+    margin-bottom: 25px;
+    padding-top: 60px;
+    color: #000
+
 }
 
-.home-content-pv h1 {
-    margin-bottom: 30px;
-    color: #000;
-}
 
 .benefits-img{
     max-width: 50px;
