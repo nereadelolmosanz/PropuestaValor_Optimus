@@ -1778,3 +1778,7 @@ xkeyframes
     max-width: 50px;
     max-height: 50px;
 }
+
+.branding-img{
+    border: black 2px solid;
+}
